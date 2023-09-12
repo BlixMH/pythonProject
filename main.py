@@ -3,6 +3,6 @@
 # Hello world
 
 
-chaine = 'Bonjour, je me nomme Blix'
+chain = 'Bonjour, je me nomme Blix'
 
-print(len(chaine))  # print le nbr de caractères
+print(len(chain))  # print le nbr de caractères
